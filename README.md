@@ -16,6 +16,16 @@ This report delves into the application of Q-learning, a reinforcement learning 
 - Experimentation with various Q-learning settings (learning rate, exploration rate, maze size)
 - Systematic parameter tuning for optimal Q-learning configuration
 
+## Notebooks
+
+This repository contains 6 notebooks:
+
+1. `Maze.ipynb`: Sets up the environment of the maze.
+2. `Epsilon.ipynb`: Tune the epsilon exploration-exploitation greedy hyperparameter.
+3. Notebook for tuning the learning rate hyperparameter.
+4. Notebook for tuning the gamma hyperparameter.
+5. `Optimal.ipynb`: Compares between the default values of hyperparameters and the optimal ones.
+
 ## Getting Started
 
 To get started with our project, follow these steps:
